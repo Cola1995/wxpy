@@ -15,4 +15,4 @@ def get_response(msg):
         return "不知道该说什么了"
 
 if __name__=='__main__':
-    print(get_response('你是我儿子'))
+    print(get_response('hiaa'))
